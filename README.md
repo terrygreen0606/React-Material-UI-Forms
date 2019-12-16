@@ -10,3 +10,5 @@ npm install
 npm start
 
 That's it.
+
+It will run on the development server localhost:3000
